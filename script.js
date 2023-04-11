@@ -1,4 +1,4 @@
-function getRandomTime() {
+ function getRandomTime() {
     return Math.floor(Math.random() * 3000) + 1000; // random time between 1 and 3 seconds in milliseconds
   }
 
